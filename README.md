@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SohailSaeed
-- 👀 I’m interested in Data Stream Learning
+- 👀 I’m interested in Time Series Anomaly Detection (TSAD)
 - 🌱 I’m currently learning Artificial Intelligence, Machine and Deep Learning 
-- 💞️ I’m looking to collaborate on Data Stream Learning projects
+- 💞️ I’m looking to collaborate on TSAD projects
 - 📫 You can reach me via GitHub
 
 <!---
