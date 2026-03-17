@@ -6,12 +6,11 @@ Focusing on **Time Series Anomaly Detection (TSAD)** for predictive maintenance,
 - 👀 Interests: TSAD, multivariate time series, predictive maintenance (PdM), anomaly detection in O&G assets  
 - 🌱 Currently learning: Python/PyTorch, deep learning for TS (LSTMs, VAEs, Transformers), PyOD, Darts, sktime  
 - 💞️ Looking to collaborate on: TSAD projects, industrial datasets, PdM case studies  
-- 📫 Reach me: [your.email@example.com] | LinkedIn: [linkedin.com/in/your-profile] | X: [@yourhandle]  
+- 📫 Reach me: [sohail.saeed@ymail.com] | LinkedIn: [linkedin.com/in/sohailsaeed1] | X: [@_SohailSaeed]  
 - ⚡ Fun fact: Bridging 26 years of physical asset knowledge with modern AI to detect incipient failures early
 
 ## Key Projects / Repos
-- **[TSAD-3W-Petrobras](https://github.com/SohailSaeed/TSAD-3W-Petrobras)**: Experiments on Petrobras 3W dataset (multivariate anomalies in offshore production) — Isolation Forest, LSTM Autoencoders, evaluation metrics  
-- **[Vibration-Anomaly-Detection](https://github.com/SohailSaeed/Vibration-Anomaly-Detection)**: Bearing fault detection using CWRU dataset + physics-informed thresholds  
+- **[TSAD](https://github.com/SohailSaeed/phd-tsad)**: Experiments on public dataset using various algorithms like Isolation Forest, LSTM Autoencoders, evaluation metrics  
 - More coming: physics-informed TSAD, industrial benchmarks...
 
 ## Tech Stack
